@@ -14,25 +14,23 @@ O objetivo do desafio é analisar os dados de acesso de usuários e gerar insigh
 
 ## 🚀 Tecnologias Utilizadas
 
-- Java 21
-- Spring Boot 3
+- Java 17
+- Spring Boot 3.4.5
 - Maven
-- JPA (Hibernate)
-- H2 (banco em memória)
 - Lombok
 
 ## 🧪 Como executar o projeto
 
 ### Pré-requisitos
 
-- Java 21+
+- Java 17+
 - Maven 3.8+
 
 ### Passos para rodar:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
-cd seu-repo
+git clone https://github.com/andregnicoletti/spring-boot-desafio-codecon
+cd spring-boot-desafio-codecon
 ./mvnw spring-boot:run
 ```
 
